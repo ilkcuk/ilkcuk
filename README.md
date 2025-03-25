@@ -1,5 +1,5 @@
 # 💫 About Me:
-im currently lerning on framework im kinda new to everything and my friend help me with something but i dont mind more help 
+Im currently learning about framework im kinda new to everything and my friend help me with something but i dont mind more help 
 
 
 # 💻 Tech Stack:
